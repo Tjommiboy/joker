@@ -66,6 +66,7 @@
     "ms": "^2.1.2",
     "natural-compare": "^1.4.0",
     "once": "^1.4.0",
+    "one-liner-joke": "^1.2.2",
     "optionator": "^0.9.3",
     "p-limit": "^3.1.0",
     "p-locate": "^5.0.0",
@@ -93,7 +94,6 @@
     "wrappy": "^1.0.2",
     "yocto-queue": "^0.1.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
