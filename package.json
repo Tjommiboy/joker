@@ -112,5 +112,8 @@
   "bugs": {
     "url": "https://github.com/Tjommiboy/joker/issues"
   },
-  "homepage": "https://github.com/Tjommiboy/joker#readme"
+  "homepage": "https://github.com/Tjommiboy/joker#readme",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
 }
