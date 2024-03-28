@@ -2,6 +2,7 @@
   "name": "joker",
   "version": "0.0.1",
   "description": "CSS only e-commerce application",
+  "type": "module",
   "main": "src/index.js",
   "dependencies": {
     "acorn": "^8.11.3",
