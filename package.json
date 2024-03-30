@@ -40,7 +40,7 @@
     "flat-cache": "^3.2.0",
     "flatted": "^3.3.1",
     "fs.realpath": "^1.0.0",
-    "give-me-a-joke": "^0.5.0",
+    "give-me-a-joke": "^0.5.1",
     "glob": "^7.2.3",
     "glob-parent": "^6.0.2",
     "globals": "^13.24.0",
