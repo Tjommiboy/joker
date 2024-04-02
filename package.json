@@ -1,11 +1,12 @@
 {
-  "name": "joker",
+  "name": "min-joker",
   "version": "0.1.0",
   "description": "CSS only e-commerce application",
   "type": "module",
   "main": "src/index.js",
   "dependencies": {
-    "give-me-a-joke": "^0.5.1"
+    "give-me-a-joke": "^0.5.1",
+    "min-joker": "^0.1.0"
   },
   "scripts": {
     "test": "node src/js/joker.js",
