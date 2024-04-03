@@ -11,7 +11,7 @@
   },
   "scripts": {
     "test": "node src/js/joker.test.js",
-    "format": "prettier -w src/js/joker.js"
+    "format": "prettier -w src/**/*.js"
   },
   "repository": {
     "type": "git",
